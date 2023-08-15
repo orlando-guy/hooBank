@@ -4,7 +4,7 @@
 
 ## introduction
 
-HooBank was build from figma design taked on internet. It can give you a solid starting point to develop your next awesome project. it includes:  
+HooBank was build from a figma design took on internet. It can give you a solid starting point to develop your next awesome project. it includes:  
 * A painless, tailwindCss;
 * A solid and extensible development environment, with [ReactJs](https://reactjs.org), [ViteJs](https://vitejs.dev).
 
@@ -34,6 +34,6 @@ HooBank was build from figma design taked on internet. It can give you a solid s
 if you have any suggestions about the css and ReactJs structures/best practice, please contribute and make a pull request.
 
 * Fork the original repo
-* if you have to test some new css/js feature, type `npx parcel index.html` which will start tje dev server.
+* if you have to test some new css/js feature, type `npm run dev` which will start the dev server.
 * Make a pull request
-* Feel proud to contribute to the open source world :)
+* Feel free to contribute to the open source world :)
